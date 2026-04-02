@@ -1,0 +1,19 @@
+﻿{
+    "ci":  [
+               0.971,
+               1
+           ],
+    "disease":  "Diffuse Large B-Cell Lymphoma",
+    "patent":  "US 63/942,422",
+    "tier":  "GOLD",
+    "sensitivity":  0.95,
+    "pipeline":  "BPF v1.0.0",
+    "patients":  44,
+    "event_rate":  0.36,
+    "cohort":  "GDC CTSP-DLBCL1",
+    "phase":  "Phase 0",
+    "events":  16,
+    "specificity":  0.98,
+    "seed":  42,
+    "auc":  0.9933
+}
